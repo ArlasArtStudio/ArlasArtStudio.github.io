@@ -1,0 +1,44 @@
+# This is llgal's captions file, first generated on Tue Jan 14 21:58:53 2020
+# invoked with --title My title --gc
+
+# Use the following syntax (without the beginning '# ') to define captions line:
+# TITLE: title of the index
+# PARENT: label of the link to the parent gallery
+# PREV: label of the link to the previous gallery ---- url of the previous gallery
+# NEXT: label of the link to the next gallery ---- url of the next gallery
+# INDEXHEAD: one header line in the index
+# INDEXFOOT: one header line in the index
+# TXT: text ---- caption
+# LNK: url ---- slide link text ---- caption
+# LNKNOSLIDE: url ---- direct link text without slide
+# IMG: imagefile ---- caption
+# MVI: moviefile ---- slide link text ---- caption
+# FIL: file ---- slide link text ---- caption
+# DIR: directory ---- slide link text ---- caption
+# BREAK
+# LINE
+# REPLACE: text ---- replacement
+
+# REMOVE THIS LINE IF LLGAL SHOULD NOT REMOVE THIS FILE
+
+TITLE: Arla's Art Studio
+
+IMG: Aunty Em!LR.jpg ---- Aunty Em!
+IMG: Cavernous ForestLR.jpg ---- Cavernous Forest
+IMG: Cosmic HoleLR.jpg ---- Cosmic Hole
+IMG: Desert PlantsLR.jpg ---- Desert Plants
+IMG: Gloried MarigoldLR.jpg ---- Gloried Marigold
+IMG: Harvest SunsetLR.jpg ---- Harvest Sunset
+IMG: Heavens AboveLR.jpg ---- Heavens Above
+IMG: Hosta LoveLR.jpg ---- Hosta Love
+IMG: Life in Black and WhiteLR.jpg ---- Life in Black and White
+IMG: Macro ExplosionLR.jpg ---- Macro Explosion
+IMG: Mt Fuji in the SpringLR.jpg ---- Mt. Fuji in the Spring
+IMG: Spring PeacockLR.jpg ---- Spring Peacock
+IMG: Sunny BeachLR.jpg ---- Sunny Beach
+IMG: Sunset BeachLR.jpg ---- Sunset Beach
+IMG: The BlackbirdLR.jpg ---- The Blackbird
+IMG: The Flaming FishLR.jpg ---- The Flaming Fish
+IMG: The Fountain of LavaLR.jpg ---- The Fountain of Lava
+IMG: The Lone DandelionLR.jpg ---- The Lone Dandelion
+IMG: Tropical StitchesLR.jpg ---- Tropical Stitches
